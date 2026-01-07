@@ -1,0 +1,40 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Your_First_HTML_Website",
+            "start": 0.0,
+            "end": 2.6,
+            "text": " In the last video, you guys gave a lot of love."
+        },
+        {
+            "number": "2",
+            "title": "Your_First_HTML_Website",
+            "start": 2.6,
+            "end": 5.0,
+            "text": " It's my pleasure to keep this course free."
+        },
+        {
+            "number": "2",
+            "title": "Your_First_HTML_Website",
+            "start": 5.0,
+            "end": 6.640000000000001,
+            "text": " A like is required for this free course."
+        },
+        {
+            "number": "2",
+            "title": "Your_First_HTML_Website",
+            "start": 6.640000000000001,
+            "end": 8.36,
+            "text": " You know when I started web development,"
+        },
+        {
+            "number": "2",
+            "title": "Your_First_HTML_Website",
+            "start": 8.36,
+            "end": 10.36,
+            "text": " I didn't have a comprehensive code of this quality."
+        }
+    ],
+    "text": " In the last video, you guys gave a lot of love. It's my pleasure to keep this course free. A like is required for this free course. You know when I started web development, I didn't have a comprehensive code of this quality."
+}
