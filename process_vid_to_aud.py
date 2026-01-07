@@ -11,3 +11,9 @@ for file in files:
     file_name = file.split("_Sigma")[0]
     # print(tutorial_number,  file_name)
     subprocess.run(['ffmpeg', '-i', f"videos/{file}", f"audios/{tutorial_number}_{file_name}.mp3"])
+
+# files = os.listdir("audios")
+
+# for file in files:
+#     subprocess.run([ 'ffmpeg', '-ss', '0', '-i', f'audios/{file}', '-t', '10', '-c', 'copy', f'audio_cut/{file}.mp3'])
+#     # print(file)
