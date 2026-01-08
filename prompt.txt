@@ -1,0 +1,9 @@
+I am teaching web development sigma web development course. 
+Here are video subtitle chunks containing video title, video number, start time(in seconds), 
+end time(in seconds), the text at that time: "{"title":{"74":"Heading_Paragraphs_and_Links","92":"Id_Classes_in_HTML","79":"Image_Lists_and_Tables_in_HTML","87":"Inline_Block_Elements_in_HTML","93":"Id_Classes_in_HTML"},"number":{"74":"4","92":"9","79":"5","87":"8","93":"9"},"start":{"74":0.0,"92":7.4,"79":2.84,"87":0.0,"93":9.64},"end":{"74":3.2,"92":9.64,"79":5.08,"87":3.76,"93":11.64},"text":{"74":" In today's video, I will tell you about heading and paragraphs.","92":" In fact, when I was learning HTML,","79":" how lists are made in HTML and how tables are made.","87":" Learning the concept of inline and block elements in HTML is very important.","93":" I was learning it by myself."}}".
+-----------------
+"where headings are taught?"
+User asked this question related to the video chunks, 
+you have to answer where and how much content is taught where(in which video and at what timestamp)
+and guide the user to go to that particular video. If user asks unrelated question
+, tell him that you can only answer question to the course
