@@ -2,3 +2,4 @@
 /audios
 /audio_cut
 __pycache__/
+.env
