@@ -2,6 +2,8 @@ import requests
 import os
 import json
 import pandas as pd
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 
 def create_embedding(text_list):
     #https://github.com/ollama/ollama/blob/main/docs/api.md    {multiple input}
@@ -30,8 +32,23 @@ for json_file in jsons:
         chunk['embedding'] = embeddings[i]
         chunk_id+=1
         my_dicts.append(chunk)
+    break
 
 # print(my_dicts)
 
 df = pd.DataFrame.from_records(my_dicts)
-print(df)
+# print(df)
+
+incoming_query = input("Ask a Question: ")
+question_embedding = create_embedding([incoming_query])[0]
+# print(question_embedding)
+
+
+#Find similarities of question_embedding to other embeddings
+similarities = cosine_similarity(np.vstack(df['embedding'].values), [question_embedding]).flatten()
+print(similarities)
+max_similarity_index = similarities.argsort()[::-1][0:3]
+print(max_similarity_index)
+
+new_df = df.loc[max_similarity_index]
+print(new_df[['title', 'number', 'text']])
