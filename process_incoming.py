@@ -24,9 +24,13 @@ question_embedding = create_embedding([incoming_query])[0]
 
 #Find similarities of question_embedding to other embeddings
 similarities = cosine_similarity(np.vstack(df['embedding'].values), [question_embedding]).flatten()
-print(similarities)
-max_similarity_index = similarities.argsort()[::-1][0:3]
-print(max_similarity_index)
+# print(similarities)
+top_results = 10
+max_similarity_index = similarities.argsort()[::-1][0:top_results]
+# print(max_similarity_index)
 
 new_df = df.loc[max_similarity_index]
-print(new_df[['title', 'number', 'text']])
+# print(new_df[['title', 'number', 'text']])
+
+for index, item in new_df.iterrows():
+    print(index, item['title'], item['number'], item['text'], item['start'], item['end'])
