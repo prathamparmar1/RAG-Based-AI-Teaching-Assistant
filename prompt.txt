@@ -1,8 +1,8 @@
 I am teaching web development sigma web development course. 
 Here are video subtitle chunks containing video title, video number, start time(in seconds), 
-end time(in seconds), the text at that time: "[{"title":"Heading_Paragraphs_and_Links","number":"4","start":0.0,"end":3.2,"text":" In today's video, I will tell you about heading and paragraphs."},{"title":"Installing_VS_Code_How_Websites_Work","number":"1","start":9.5,"end":10.5,"text":" This course is exactly like that."},{"title":"Basic_Structure_of_an_HTML_Website","number":"3","start":7.32,"end":9.32,"text":" Like this course with high energy guys."},{"title":"Your_First_HTML_Website","number":"2","start":5.0,"end":6.64,"text":" A like is required for this free course."},{"title":"Introduction_to_CSS","number":"14","start":3.28,"end":5.28,"text":" We have progressed a lot in this course."}]".
+end time(in seconds), the text at that time: "[{"title":"Introduction_to_CSS","number":"14","start":0.0,"end":7.28,"text":" Guys, we are going to start CSS from today's video.  We have progressed a lot in this course.  We have finished the whole HTML."},{"title":"Id_Classes_in_HTML","number":"9","start":9.64,"end":11.64,"text":" I was learning it by myself."},{"title":"Inline_Internal_External_CSS","number":"15","start":0.0,"end":10.0,"text":" In this video, we will see how to add CSS to an HTML page.  There are 3 ways to add CSS to HTML.  The first way is inline CSS."},{"title":"Your_First_HTML_Website","number":"2","start":6.64,"end":10.36,"text":" You know when I started web development,  I didn't have a comprehensive code of this quality."},{"title":"Installing_VS_Code_How_Websites_Work","number":"1","start":9.5,"end":10.5,"text":" This course is exactly like that."}]".
 -----------------
-"where is headings taught in this course?"
+"from where css was being taught?"
 User asked this question related to the video chunks, 
 you have to answer in human way(don't mention the above format, it was just for you)that
 where and how much content is taught where(in which video and at what timestamp)

@@ -4,15 +4,8 @@
             "number": "10",
             "title": "Video_Audio_Media_in_HTML",
             "start": 0.0,
-            "end": 5.6000000000000005,
-            "text": " In today's video, we will learn how to use audio, video and media elements in HTML."
-        },
-        {
-            "number": "10",
-            "title": "Video_Audio_Media_in_HTML",
-            "start": 5.6000000000000005,
             "end": 10.4,
-            "text": " In our very first video, we saw that we can embed videos in HTML."
+            "text": " In today's video, we will learn how to use audio, video and media elements in HTML.  In our very first video, we saw that we can embed videos in HTML."
         }
     ],
     "text": " In today's video, we will learn how to use audio, video and media elements in HTML. In our very first video, we saw that we can embed videos in HTML."

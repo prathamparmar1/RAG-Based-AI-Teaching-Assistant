@@ -1,1 +1,19 @@
-{"chunks": [{"number": "18", "title": "CSS_Box_Model_-_Margin_Padding_Borders", "start": 0.0, "end": 2.4, "text": " Guys, in today's video we are going to talk about"}, {"number": "18", "title": "CSS_Box_Model_-_Margin_Padding_Borders", "start": 2.4, "end": 4.2, "text": " Box Model in CSS"}, {"number": "18", "title": "CSS_Box_Model_-_Margin_Padding_Borders", "start": 4.2, "end": 7.24, "text": " In any element, there is a content which is itself"}, {"number": "18", "title": "CSS_Box_Model_-_Margin_Padding_Borders", "start": 7.24, "end": 10.36, "text": " Then there is a margin, then there is a border and padding"}], "text": " Guys, in today's video we are going to talk about Box Model in CSS In any element, there is a content which is itself Then there is a margin, then there is a border and padding"}
+{
+    "chunks": [
+        {
+            "number": "18",
+            "title": "CSS_Box_Model_-_Margin_Padding_Borders",
+            "start": 0.0,
+            "end": 7.24,
+            "text": " Guys, in today's video we are going to talk about  Box Model in CSS  In any element, there is a content which is itself"
+        },
+        {
+            "number": "18",
+            "title": "CSS_Box_Model_-_Margin_Padding_Borders",
+            "start": 7.24,
+            "end": 10.36,
+            "text": " Then there is a margin, then there is a border and padding"
+        }
+    ],
+    "text": " Guys, in today's video we are going to talk about Box Model in CSS In any element, there is a content which is itself Then there is a margin, then there is a border and padding"
+}

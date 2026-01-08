@@ -1,1 +1,12 @@
-{"chunks": [{"number": "17", "title": "CSS_Selectors_MasterClass", "start": 0.0, "end": 8.700000000000001, "text": " Guys, we talked about selectors in CSS and we said that selectors are used to select an element on which style is going to be applied."}, {"number": "17", "title": "CSS_Selectors_MasterClass", "start": 8.700000000000001, "end": 10.700000000000001, "text": " Now, which elements are we going to use?"}], "text": " Guys, we talked about selectors in CSS and we said that selectors are used to select an element on which style is going to be applied. Now, which elements are we going to use?"}
+{
+    "chunks": [
+        {
+            "number": "17",
+            "title": "CSS_Selectors_MasterClass",
+            "start": 0.0,
+            "end": 10.700000000000001,
+            "text": " Guys, we talked about selectors in CSS and we said that selectors are used to select an element on which style is going to be applied.  Now, which elements are we going to use?"
+        }
+    ],
+    "text": " Guys, we talked about selectors in CSS and we said that selectors are used to select an element on which style is going to be applied. Now, which elements are we going to use?"
+}

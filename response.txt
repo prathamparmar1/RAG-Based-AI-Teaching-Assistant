@@ -1,3 +1,6 @@
-Headings are taught in **Video Number 4: "Heading_Paragraphs_and_Links"**. You can find content about headings right from the beginning of this video, specifically from **0 seconds to 3.2 seconds**, where it mentions, "In today's video, I will tell you about heading and paragraphs."
+CSS content starts from a couple of videos!
 
-Please navigate to Video 4 to learn about headings!
+*   You can begin with **"Introduction_to_CSS" (Video 14)**, where CSS is introduced right from the start (0:00 - 7:28).
+*   Following that, **"Inline_Internal_External_CSS" (Video 15)** teaches you how to add CSS to an HTML page, covering inline CSS and other methods (0:00 - 10:00).
+
+I recommend starting with Video 14 to get an introduction to CSS!

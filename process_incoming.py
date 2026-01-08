@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 import json
 
 load_dotenv()
-client = genai.Client()
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+client = genai.Client()
 
 def create_embedding(text_list):
     #https://github.com/ollama/ollama/blob/main/docs/api.md    {multiple input}
