@@ -1,0 +1,12 @@
+{
+    "chunks": [
+        {
+            "number": "15",
+            "title": "Inline_Internal_External_CSS",
+            "start": 0.0,
+            "end": 10.0,
+            "text": " In this video, we will see how to add CSS to an HTML page.  There are 3 ways to add CSS to HTML.  The first way is inline CSS."
+        }
+    ],
+    "text": " In this video, we will see how to add CSS to an HTML page. There are 3 ways to add CSS to HTML. The first way is inline CSS."
+}

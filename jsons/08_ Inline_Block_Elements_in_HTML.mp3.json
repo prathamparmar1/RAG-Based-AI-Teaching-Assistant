@@ -1,0 +1,12 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Inline_Block_Elements_in_HTML",
+            "start": 0.0,
+            "end": 10.0,
+            "text": " Learning the concept of inline and block elements in HTML is very important.  Inline elements are those which take only this much width as required.  And block elements are those which take the full width of the screen."
+        }
+    ],
+    "text": " Learning the concept of inline and block elements in HTML is very important. Inline elements are those which take only this much width as required. And block elements are those which take the full width of the screen."
+}
