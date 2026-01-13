@@ -1,0 +1,6 @@
+/.env
+/videos/
+/audios/
+/audio_cut/
+/__pycache__/
+/jsons_old/
